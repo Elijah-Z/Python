@@ -1,8 +1,6 @@
 # encoding:utf-8
 import requests
 import re
-import sys
-import io
 import webbrowser
 import random
 from lxml import etree
@@ -28,8 +26,6 @@ analy = {
 headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64)'
                          'AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.106'
                          'Safari/537.36 Edg/83.0.478.54'}
-# 改变标准输出的默认编码
-# sys.stdout = io.TextIOWrapper(sys.stdout.buffer, encoding='gb18030')
 
 
 def get_redirect_url(url):
