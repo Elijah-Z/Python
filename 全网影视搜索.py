@@ -136,7 +136,7 @@ def go(search):
 def main():
     print('--- 全网影视查询 ---')
     while True:
-        search = input('(1) --- 精确查找\n(2) --- 快速播放\n(3) --- 帮助\n选择查找模式:')
+        search = input('(1) --- 精确查找\n(2) --- 快速播放\n(3) --- 获取帮助\n选择查找模式:')
         if search == '1':
             print('精确查找')
             break
