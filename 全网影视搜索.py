@@ -12,7 +12,6 @@ analy = {
         '那片云解析': 'http://api.nepian.com/ckparse/?url=',
         '石头云': 'http://jiexi.071811.cc/jx.php?url=',
         '人人解析': 'https://vip.mpos.ren/v/?url=',
-        'wlzhan解析': 'http://api.wlzhan.com/sudu/?url=',
         '金桥解析': 'http://jqaaa.com/jx.php?url=',
         'Lequgirl': 'http://api.lequgirl.com/?url=',
         '通用视频': 'http://jx.598110.com/index.php?url=',
